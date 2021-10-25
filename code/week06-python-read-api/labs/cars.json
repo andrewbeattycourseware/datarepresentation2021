@@ -1,0 +1,22 @@
+{
+    "cars": [
+        {
+            "make": "Ford",
+            "model": "Modeo",
+            "price": 18000,
+            "reg": "181 G 1234"
+        },
+        {
+            "make": "Nissan",
+            "model": "Almera",
+            "price": 8000,
+            "reg": "11 MO 1234"
+        },
+        {
+            "make": "Nissan",
+            "model": "Almera",
+            "price": 8000,
+            "reg": "test"
+        }
+    ]
+}
